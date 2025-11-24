@@ -8,6 +8,7 @@ New Era University – 2nd Year
 
 **Skill Sets:**  
 - Java Programming
-
+ 
 **Certifications:**  
-- (Add your SQL course certificate link here once completed)
+- SQL and Relational Databases 101 (Authenticity Link: https://courses.cognitiveclass.ai/certificates/9ef56f08049b410ea3e3706b8fbab648)
+
