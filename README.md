@@ -1,16 +1,13 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Fiore-kth/Fiore-kth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Name:**  
+Mark Lester A. Samson
 
-Here are some ideas to get you started:
+**Education:**  
+New Era University – 2nd Year
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skill Sets:**  
+- Java Programming
+
+**Certifications:**  
+- (Add your SQL course certificate link here once completed)
